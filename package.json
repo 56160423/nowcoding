@@ -1,4 +1,6 @@
 {
+  "name": "nowcoding",
+  "version": "1.0",
   "private": true,
   "scripts": {
     "prod": "gulp --production",
