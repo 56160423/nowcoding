@@ -3,7 +3,7 @@
 A simple Laravel 5.2 project which configured to work with Angular2 in Typescript. 
 
 ## Basic Usage
-
+`composer install` Install project 
 `npm install` Install dependencies
 
 `gulp` Build Assets: CSS, JS and Webpack all Angular2 script into bundle.js

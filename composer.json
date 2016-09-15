@@ -1,6 +1,6 @@
 {
     "name": "nowcoding",
-    "description": "Laravel 5.2 Project with Angular2",
+    "description": "Laravel 5.2 with Angular2",
     "keywords": ["framework", "laravel", "angular2"],
     "license": "MIT",
     "type": "project",
